@@ -16,6 +16,13 @@
 
 > **HASH MAPS**
 
+| Operation | Time Complexity |
+| --------- | --------------- |
+| Access    |      O(1)       |
+| Insert    |      O(1)       |
+| Search    |      O(1)       |
+| Delete    |      O(1)       |
+
 > **LINKED LIST**
 
 > **STACKS**
