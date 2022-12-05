@@ -1,18 +1,21 @@
-***
+---
 # Data Structures and Algorithm Cheat Sheet
-### This is a simple Data Structure and Algorithm cheat sheet for biginners
-#### Here we only focus on the worst time complexity 
 
-***
+### This is a simple Data Structure and Algorithm cheat sheet for biginners
+
+#### Here we only focus on the worst time complexity
+---
+
 ## Data Structures
+
 > **ARRAYS**
 
 | Operation | Time Complexity |
 | --------- | --------------- |
-| Access    |      O(1)       |   
-| Insert    |      O(n)       |
-| Search    |      O(n)       |
-| Delete    |      O(n)       |
+| Access    | O(1)            |
+| Insert    | O(n)            |
+| Search    | O(n)            |
+| Delete    | O(n)            |
 
 > **HASH MAPS**
 
@@ -24,12 +27,20 @@ There are at least two ways to implement hashmap:
 
 | Operation | Time Complexity |
 | --------- | --------------- |
-| Access    |      O(1)       |
-| Insert    |      O(1)       |
-| Search    |      O(1)       |
-| Delete    |      O(1)       |
+| Access    | O(1)            |
+| Insert    | O(1)            |
+| Search    | O(1)            |
+| Delete    | O(1)            |
 
 > **LINKED LIST**
+> A linked list is the most sought-after data structure when it comes to handling dynamic data elements. A linked list consists of a data element known as a node. And each node consists of two fields: one field has data, and in the second field, the node has an address that keeps a reference to the next node.
+
+| Operation | Time Complexity |
+| --------- | --------------- |
+| Access    | O(n)            |
+| Insert    | O(n)            |
+| Search    | O(n)            |
+| Delete    | O(n)            |
 
 > **STACKS**
 
@@ -38,8 +49,10 @@ There are at least two ways to implement hashmap:
 > **TREES**
 
 > **GRAPHS**
- ***
+
+---
 
 ## Algorithms
+
 | Algorithm | Time Complexity |
 | --------- | --------------- |
