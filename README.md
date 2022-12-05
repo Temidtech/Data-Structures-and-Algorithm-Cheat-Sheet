@@ -1,11 +1,9 @@
 ---
-
 # Data Structures and Algorithm Cheat Sheet
 
 ### This is a simple Data Structure and Algorithm cheat sheet for biginners
 
 #### Here we only focus on the worst time complexity
-
 ---
 
 ## Data Structures
