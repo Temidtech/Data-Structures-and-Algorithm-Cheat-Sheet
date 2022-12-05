@@ -17,7 +17,7 @@
 > **HASH MAPS**
 
 Maps, dictionaries, and associative arrays all describe the same abstract data type. But hash map implementations are distinct from treemap implementations in that one uses a hash table and one uses a binary search tree.
-There are at least two ways to implement hashmap:
+There are at least two ways to implement hashmap-:
 
 1. Array: Using a hash function to map a key to the array index value. Worst Case: O(n), Average Case: O(1).
 2. Binary Search Tree: using a self-balancing binary search tree to look up for values. Worst Case: O(log n), Average Case: O(log n).
