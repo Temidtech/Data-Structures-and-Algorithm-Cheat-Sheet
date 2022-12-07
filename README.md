@@ -46,6 +46,17 @@ There are at least two ways to implement hashmap:
 > **STACKS**
 
 > **QUEUES**
+ 
+A queue is defined as a linear data structure that is open at both ends and the operations are performed in First In First Out (FIFO) order
+structure in which the element that is 
+inserted first is the first one to be taken out. 
+
+| Operation | Time Complexity |
+| --------- | --------------- |
+| Access    | O(1)            |
+| Insert    | O(1)            |
+| Search    | O(n)            |
+| Delete    | O(1)            |
 
 > **TREES**
 
