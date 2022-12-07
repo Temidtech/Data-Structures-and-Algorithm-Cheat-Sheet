@@ -45,6 +45,15 @@ There are at least two ways to implement hashmap:
 
 > **STACKS**
 
+A stack is a linear data structure in which insertion and deletion of elements are done at only one end, which is known as the top of the stack. Stack is called a last-in, first-out (LIFO) structure because the last element which is added to the stack is the first element which is deleted from the stack. Stacks are implemented using arrays and linked lists.
+
+| Operation | Time Complexity |
+| --------- | --------------- |
+| Access    | O(n)            |
+| Insert    | O(1)            |
+| Search    | O(n)            |
+| Delete    | O(1)            |
+
 > **QUEUES**
  
 A queue is defined as a linear data structure that is open at both ends and the operations are performed in First In First Out (FIFO) order
