@@ -71,6 +71,16 @@ inserted first is the first one to be taken out.
 
 > **GRAPHS**
 
+ 
+Unlike other common data structures, a graph consist of vertices (V) and edges (E).
+Thus:
+
+| Operation | Time Complexity |
+| --------- | --------------- |
+| Access    | O(V + E)        |
+| Insert    | O(1)            |
+| Search    | O(V + E)        |
+| Delete    | O(E)            |
 ---
 
 ## Algorithms
